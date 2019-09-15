@@ -1,0 +1,8 @@
+env: dev
+
+postgresql: 
+  host: localhost
+  port: 5432
+  user: postgres
+  pwd: 123456
+  dbName: demo
